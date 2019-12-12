@@ -22,6 +22,9 @@
 	ailock = 1
 	lethal = 1
 
+/obj/machinery/porta_turret/exterior/dagon
+	id_tag = "dagonturret"
+
 /////////
 // Firearms
 /////////
